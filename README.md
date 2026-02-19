@@ -15,19 +15,16 @@ The for loop is used when the number of iterations is known beforehand. It is co
 3. Nested Loops
 A loop inside another loop is called a nested loop.
 Nested loops are commonly used for:
-Matrix operations
-Pattern printing
-Table generation
+Matrix operations, Pattern printing,Table generation.
 In matrix operations:
-Outer loop → Controls rows
-Inner loop → Controls columns
+-Outer loop → Controls rows
+-Inner loop → Controls columns
 4. Matrix in Python
 A matrix in Python is represented using a list of lists.
 
 Programs and Algorithms
 
 Program : Print Numbers from 1 to 5
-
 Algorithm:
 Step 1: Start.
 Step 2: Initialize loop variable i using range from 1 to 5.
